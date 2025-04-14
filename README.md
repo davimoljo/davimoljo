@@ -16,6 +16,7 @@
 <img align="center" alt="html5" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
 
 </div>
+<br/>
 
 Graduando em Ciência da Computação na Universidade Federal de Juiz de Fora. Tenho muita facilidade e vontade para aprender e trabalhar em equipe. Ademais, possuo desmedido interesse no empreendedorismo!
 

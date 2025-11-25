@@ -1,11 +1,11 @@
-### Olá! Eu sou o Davi Moljo👋  
 ### Hello! I'm Davi Moljo👋
+### Olá! Eu sou o Davi Moljo👋  
 
 <p>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Coding GIF" />
 </p>
 
-## Tecnologias que eu utilizo (Technologies I work with)
+## Technologies I work with (Tecnologias que eu utilizo) 
 
 <div class="badges-container">
   <img class="badge" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,11 +22,11 @@
 </div>
 
 
- ## Sobre mim (About me)
+ ## About me (Sobre mim)
 Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, em busca da primeira oportunidade profissional na área de programação. Tenho facilidade para aprender, gosto de trabalhar em equipe e sou movido por um grande interesse em empreendedorismo.  
 Computer Science student at the Federal University of Juiz de Fora, currently seeking my first opportunity in the programming field. I am a fast learner, enjoy teamwork, and have a strong passion for entrepreneurship.
 
-## Formas de contato (Contact Information)
+## Contact Information (Formas de contato)
 
 <a href="https://www.linkedin.com/in/davi-moljo-52b343255/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

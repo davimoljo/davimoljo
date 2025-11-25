@@ -23,8 +23,9 @@
 
 
  ## About me (Sobre mim)
-Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, em busca da primeira oportunidade profissional na área de programação. Tenho facilidade para aprender, gosto de trabalhar em equipe e sou movido por um grande interesse em empreendedorismo.  
 Computer Science student at the Federal University of Juiz de Fora, currently seeking my first opportunity in the programming field. I am a fast learner, enjoy teamwork, and have a strong passion for entrepreneurship.
+Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, em busca da primeira oportunidade profissional na área de programação. Tenho facilidade para aprender, gosto de trabalhar em equipe e sou movido por um grande interesse em empreendedorismo.  
+
 
 ## Contact Information (Formas de contato)
 

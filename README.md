@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Davi! 👋</h1>
+
 
 <h1 align="center">Hi there, I'm Davi! 👋</h1>
 
@@ -11,9 +11,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:davimd05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=davimd05@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+</a>
+
 </p>
 
 ---

@@ -19,9 +19,6 @@
 
 ---
 
-
----
-
 ### 👨‍💻 About Me
 
 I am a Computer Science undergraduate at Universidade Federal de Juiz de Fora (UFJF). I have a strong interest in solving real-world problems through data analysis and data engineering. Additionally, I am driven by entrepreneurship and innovation.

@@ -88,5 +88,3 @@ Anteriormente, atuei com inclusão digital, ensinando **Pensamento Computacional
 - **Pesquisa:** Integração de Dados Agrícolas e arquiteturas baseadas em Ontologias.  
 - **Aprendizado:** Pipelines de Engenharia de Dados e modelos avançados de Machine Learning.  
 - **Objetivo:** Conquistar minha primeira oportunidade como **Engenheiro de Dados** ou **Desenvolvedor**.
-
----

@@ -1,18 +1,23 @@
 <h1 align="center">Hi there, I'm Davi! 👋</h1>
 
+<h1 align="center">Hi there, I'm Davi! 👋</h1>
+
 <p align="center">
-  <em>Computer Science Student at UFJF | Data & AI Researcher | Data Engineering</em>
+  <em>Computer Science Student at UFJF | Data Science Researcher | Data Engineering</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/davimoljo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/davi-moljo-52b343255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:davimd05@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" />
+  <a href="mailto:davimd05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
   </a>
 </p>
+
+---
+
 
 ---
 

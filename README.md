@@ -23,13 +23,13 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Science undergraduate at Universidade Federal de Juiz de Fora (UFJF). I have a strong interest in solving real-world problems through data analysis and data engineering. Additionally, I am driven by entrepreneurship and innovation.
+I am a **Computer Science undergraduate at Universidade Federal de Juiz de Fora (UFJF)**. I have a strong interest in solving real-world problems through data analysis and data engineering. Additionally, I am driven by entrepreneurship and innovation.
 
-Currently, I am an Undergraduate Researcher (PIBIC/CNPq) working on Explainable AI (XAI) and AI agents applied to healthcare. I build Machine Learning models in Python that don't just produce predictions, they expose the reasoning behind each decision. In healthcare, that isn't a minor detail: a model that gets the right answer but can't explain why rarely makes it into clinical practice.
+Currently, **I am an Undergraduate Researcher (PIBIC/CNPq) working on Explainable AI (XAI) and AI agents applied to healthcare**. I build Machine Learning models in Python that don't just produce predictions, they expose the reasoning behind each decision. In healthcare, that isn't a minor detail: a model that gets the right answer but can't explain why rarely makes it into clinical practice.
 
-Before that, I developed CarboMap, a decision-support system combining Machine Learning and ontologies to estimate farm-level carbon balances from public data, lowering the cost barrier that keeps small producers out of Brazil's regulated carbon market.
+Before that, **I developed CarboMap, a decision-support system combining Machine Learning and ontologies to estimate farm-level carbon balances from public data**, lowering the cost barrier that keeps small producers out of Brazil's regulated carbon market.
 
-Previously, I worked with digital inclusion, teaching Computational Thinking and game development to public school students through the Escola de Games extension project.
+Previously, **I worked with digital inclusion, teaching Computational Thinking and game development to public school students through the Escola de Games extension project**.
 
 ---
 

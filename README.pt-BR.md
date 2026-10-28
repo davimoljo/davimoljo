@@ -25,11 +25,11 @@
 
 Sou graduando em **Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF)**. Tenho grande interesse em resolver problemas do mundo real por meio da análise e engenharia de dados. Além disso, sou movido pelo empreendedorismo e inovação.
 
-Atualmente, sou Pesquisador de Iniciação Científica (PIBIC/CNPq), trabalhando com Inteligência Artificial Explicável (XAI) e agentes de IA aplicados à saúde. Desenvolvo modelos de Machine Learning em Python que, além de gerar predições, expõem o raciocínio por trás de cada decisão. Em saúde isso não é detalhe: um modelo que acerta mas não explica por que acertou dificilmente chega à prática clínica.
+Atualmente, **sou Pesquisador de Iniciação Científica (PIBIC/CNPq), trabalhando com Inteligência Artificial Explicável (XAI) e agentes de IA aplicados à saúde**. Desenvolvo modelos de Machine Learning em Python que, além de gerar predições, expõem o raciocínio por trás de cada decisão. Em saúde isso não é detalhe: um modelo que acerta mas não explica por que acertou dificilmente chega à prática clínica.
 
-Antes disso, desenvolvi o CarboMap, um sistema de apoio à decisão que combina Machine Learning e ontologias para estimar o balanço de carbono de propriedades rurais a partir de dados públicos, reduzindo a barreira de custo que mantém pequenos produtores fora do mercado regulado de carbono.
+Antes disso, **desenvolvi o CarboMap, um sistema de apoio à decisão que combina Machine Learning e ontologias para estimar o balanço de carbono de propriedades rurais a partir de dados públicos**, reduzindo a barreira de custo que mantém pequenos produtores fora do mercado regulado de carbono.
 
-Anteriormente, atuei com inclusão digital, ensinando Pensamento Computacional e desenvolvimento de jogos para alunos da rede pública por meio do projeto de extensão *Escola de Games*.
+Anteriormente, **atuei com inclusão digital, ensinando Pensamento Computacional e desenvolvimento de jogos para alunos da rede pública por meio do projeto de extensão *Escola de Games***.
 
 ---
 
